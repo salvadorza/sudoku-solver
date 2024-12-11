@@ -5,11 +5,11 @@ Sudoku Solver es una aplicación interactiva diseñada para los amantes del Sudo
 
 ● Resolución Automática de Sudoku
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Utiliza un avanzado algoritmo de retroceso (backtracking) para resolver cualquier tablero de Sudoku de manera eficiente.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Utiliza un avanzado algoritmo de retroceso (backtracking) para resolver cualquier tablero de Sudoku de manera eficiente.
 
 ● Interfaz Moderna y Amigable
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Diseñada con colores suaves y botones claros, creando una experiencia agradable para el usuario.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Diseñada con colores suaves y botones claros, creando una experiencia agradable para el usuario.
 
 ● Personalización del Tablero
 
